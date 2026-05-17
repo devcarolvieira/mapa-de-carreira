@@ -1,105 +1,98 @@
 {
   "seo": {
-    "title": "Sarah Lima | Mapa de Carreira em Tecnologia",
-    "description": "Mapa de carreira de Sarah Lima, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
-    "author": "Sarah Lima",
+    "title": "Ana Carolina Vieira | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira de Ana Carolina Vieira, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Ana Carolina Vieira",
     "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
   },
   "profile": {
-    "name": "Sarah Lima",
-    "headline": "Educacao, Web e Gestao de TI",
-    "photo": "assets/images/profile.jpg",
-    "photoAlt": "Foto profissional de Sarah Lima",
-    "summary": "Tenho experiencia em desenvolvimento web, educacao e gestao de tecnologia. Participei de projetos que transformaram ideias em solucoes digitais e agora organizo meu mapa de carreira com foco em aprendizagem continua, colaboracao e impacto profissional.",
+    "name": "Ana Carolina Vieira",
+    "headline": "Desenvolvedora Mobile",
+    "photo": "assets/images/profilecarol.jpg",
+    "photoAlt": "Foto profissional de Ana Carolina Vieira",
+    "summary": "Sou Desenvolvedora Mobile em formação, com background estratégico em áreas financeira e comercial. Minha vivência com rotinas de alta demanda e atendimento corporativo me proporcionou habilidades excepcionais em organização e comunicação técnica. Atualmente, aplico essa base na construção de aplicações em Kotlin, focando em código limpo e eficiência. Procuro minha primeira oportunidade no ecossistema de tecnologia para colaborar com equipes dinâmicas e estar em constante evolução.",
     "cvUrl": "#"
   },
   "contacts": [
     {
-      "label": "sarah.lima@example.com",
-      "url": "mailto:sarah.lima@example.com"
+      "label": "anacarolavieira@outlook.com",
+      "url": "mailto:anacarolavieira@outlook.com"
     },
     {
-      "label": "linkedin.com/in/sarahlima",
-      "url": "https://www.linkedin.com/in/sarahlima"
+      "label": "linkedin.com/in/acavieira",
+      "url": "https://www.linkedin.com/in/acavieira"
     },
     {
-      "label": "github.com/sarahlima",
-      "url": "https://github.com/sarahlima"
+      "label": "github.com/devcarolvieira",
+      "url": "https://github.com/devcarolvieira"
     }
   ],
   "careerSteps": [
     {
       "title": "Desenvolvedora Junior",
-      "description": "Consolidar fundamentos de desenvolvimento web, versionamento, acessibilidade, logica de programacao e boas praticas de comunicacao em equipe.",
+      "description": "Consolidar fundamentos de lógica de programação, versionamento de código, entender como aplicações se comunicam com servidores e aplicar boas práticas de escrita de código limpo.",
       "softSkills": [
-        "Comunicacao clara para pedir ajuda e registrar aprendizados.",
-        "Organizacao para estudar, praticar e acompanhar tarefas.",
-        "Curiosidade para investigar problemas e testar solucoes."
+        "Comunicação clara para pedir ajuda ao time e documentar a lógica do que está sendo desenvolvido.",
+        "Organização para gerenciar tarefas (Sprints), prazos e manter o código bem estruturado.",
+        "Vontade de aprender para absorver novas tecnologias e aceitar feedbacks de desenvolvedores mais experientes."
       ],
       "roadmap": [
-        "HTML semantico",
-        "CSS responsivo",
-        "JavaScript",
+        "Lógica e Algoritmos",
         "Git e GitHub",
-        "Acessibilidade"
+        "Bancos de Dados (SQL)",
+        "Consumo de APIs",
+        "Testes Unitários"
       ]
     },
     {
-      "title": "Desenvolvedora Pleno",
-      "description": "Atuar com mais autonomia, participar de decisoes tecnicas e entregar funcionalidades com qualidade, testes e documentacao.",
+      "title": "Analista de Segurança da Informação",
+      "description": "Monitorar ambientes digitais, implementar controles de proteção, responder a incidentes de segurança e garantir a integridade, disponibilidade e confidencialidade dos dados.",
       "softSkills": [
-        "Responsabilidade sobre entregas e prazos combinados.",
-        "Colaboracao em revisoes de codigo e planejamento.",
-        "Capacidade de explicar escolhas tecnicas para diferentes publicos."
+        "Curiosidade investigativa para explorar sistemas e entender como as tecnologias podem ser burladas.",
+        "Relatório e documentação para transformar uma invasão técnica em um guia de correção para a empresa.",
+        "Ética e integridade para lidar com informações sensíveis e vulnerabilidades de forma profissional."
       ],
       "roadmap": [
-        "React",
-        "Node.js",
-        "APIs REST",
-        "Testes automatizados",
-        "Banco de dados"
+        "Redes (TCP/IP)",
+        "Linux (Terminal)",
+        "OWASP Top 10",
+        "Python p/ Segurança",
+        "Ferramentas (Nmap/Burp)"
       ]
     },
     {
-      "title": "Lideranca tecnica",
-      "description": "Contribuir para padroes de arquitetura, orientar pessoas em desenvolvimento e apoiar a tomada de decisao tecnica com base em dados e contexto.",
+      "title": "Pentester",
+      "description": "Simular ataques cibernéticos reais para identificar vulnerabilidades antes de invasores mal-intencionados, testando a resistência de redes, aplicações e infraestruturas críticas.",
       "softSkills": [
-        "Mentoria com escuta ativa e feedback construtivo.",
-        "Priorizacao entre impacto, custo, risco e aprendizado.",
-        "Visao sistemica sobre produto, pessoas e tecnologia."
+        "Pensamento lateral para enxergar caminhos de invasão criativos que fujam do óbvio ou do esperado.",
+        "Persistência para manter o foco e tentar diferentes estratégias até encontrar uma brecha no sistema.",
+        "Escrita técnica para transformar falhas complexas em relatórios claros que ajudem as empresas a se protegerem."
       ],
       "roadmap": [
-        "Arquitetura de software",
-        "Cloud",
-        "Observabilidade",
-        "Seguranca"
+        "Metodologias Pentest",
+        "Exploração de Redes",
+        "Pentest Web Avançado",
+        "Privilege Escalation",
+        "Relatórios de Bug"
       ]
     }
   ],
   "skillGroups": [
     {
-      "title": "Frontend",
+      "title": "Hard Skills",
       "skills": [
         {
-          "name": "HTML, CSS e JavaScript",
-          "level": 85
-        },
-        {
-          "name": "React",
-          "level": 70
+          "name": "HTML, Kotlin, Pacote Office, Excel intermediário, Figma, IntelliJ IDEA, MongoDB, Android Studio",
+          "level": 90
         }
       ]
     },
     {
-      "title": "Backend e dados",
+      "title": "Soft Skills",
       "skills": [
         {
-          "name": "Node.js e APIs",
+          "name": "Comunicação, trabalho em equipe, relacionamento interpessoal, adaptabilidade, aprendizado rápido, curiosidade, organização, proatividade",
           "level": 65
-        },
-        {
-          "name": "SQL",
-          "level": 60
         }
       ]
     }
@@ -112,16 +105,12 @@
   ],
   "languages": [
     {
-      "name": "Portugues",
+      "name": "Português",
       "level": "Nativo"
     },
     {
-      "name": "Ingles",
-      "level": "Tecnico"
-    },
-    {
-      "name": "Espanhol",
-      "level": "Profissional"
+      "name": "Inglês",
+      "level": "Técnico"
     }
   ]
 }
