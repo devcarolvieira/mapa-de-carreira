@@ -87,7 +87,8 @@
         { "name": "Git & GitHub", "level": 80 },
         { "name": "HTML", "level": 70 },
         { "name": "Figma", "level": 70 },
-        { "name": "Excel & Pacote Office", "level": 85 }
+        { "name": "Excel & Pacote Office", "level": 85 },
+        { "name": "IntelliJ IDEA", "level": 85 }
       ]
     },
     {
@@ -106,7 +107,8 @@
     "Inteligência Emocional",
     "Documentação Técnica",
     "Autonomia",
-    "Resolução de Problemas"
+    "Resolução de Problemas",
+    "LGPD"
   ],
   "languages": [
     {
