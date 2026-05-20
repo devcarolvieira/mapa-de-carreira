@@ -10,7 +10,7 @@
     "headline": "Desenvolvedora Mobile",
     "photo": "assets/images/profilecarol.jpg",
     "photoAlt": "Foto profissional de Ana Carolina Vieira",
-    "summary": "Sou Desenvolvedora Mobile em formação, com background estratégico em áreas financeira e comercial. Minha vivência com rotinas de alta demanda e atendimento corporativo me proporcionou habilidades excepcionais em organização e comunicação técnica. Atualmente, aplico essa base na construção de aplicações em Kotlin, focando em código limpo e eficiência. Procuro minha primeira oportunidade no ecossistema de tecnologia para colaborar com equipes dinâmicas e estar em constante evolução.",
+    "summary": "Sou Desenvolvedora Mobile, com background estratégico em áreas financeira e comercial. Minha vivência com rotinas de alta demanda e atendimento corporativo me proporcionou habilidades excepcionais em organização e comunicação técnica. Atualmente, aplico essa base na construção de aplicações em Kotlin, focando em código limpo e eficiência. Procuro minha primeira oportunidade no ecossistema de tecnologia para colaborar com equipes dinâmicas e estar em constante evolução.",
     "cvUrl": "https://devcarolvieira.github.io/mapa-de-carreira/"
   },
   "contacts": [
@@ -30,7 +30,7 @@
   "careerSteps": [
     {
       "title": "Desenvolvedora Junior",
-      "description": "Consolidar fundamentos de lógica de programação, versionamento de código, entender como aplicações se comunicam com servidores e aplicar boas práticas de escrita de código limpo.",
+      "description": "Consolidar fundamentos de lógica de programação, versionamento de código, entender como aplicações se comunicam com servidores e aplicar boas práticas de escrita de código limpo com Kotlin.",
       "softSkills": [
         "Comunicação clara para pedir ajuda ao time e documentar a lógica do que está sendo desenvolvido.",
         "Organização para gerenciar tarefas (Sprints), prazos e manter o código bem estruturado.",
@@ -38,10 +38,10 @@
       ],
       "roadmap": [
         "Lógica e Algoritmos",
+        "Kotlin e Jetpack Compose",
         "Git e GitHub",
-        "Bancos de Dados (SQL)",
-        "Consumo de APIs",
-        "Testes Unitários"
+        "Bancos de Dados (SQL e NoSQL/MongoDB)",
+        "Consumo de APIs e Testes Unitários"
       ]
     },
     {
@@ -81,27 +81,32 @@
     {
       "title": "Hard Skills",
       "skills": [
-        {
-          "name": "HTML, Kotlin, Pacote Office, Excel intermediário, Figma, IntelliJ IDEA, MongoDB, Android Studio",
-          "level": 90
-        }
+        { "name": "Kotlin", "level": 85 },
+        { "name": "Android Studio", "level": 80 },
+        { "name": "MongoDB", "level": 75 },
+        { "name": "Git & GitHub", "level": 80 },
+        { "name": "HTML", "level": 70 },
+        { "name": "Figma", "level": 70 },
+        { "name": "Excel & Pacote Office", "level": 85 }
       ]
     },
     {
       "title": "Soft Skills",
       "skills": [
-        {
-          "name": "Comunicação, trabalho em equipe, relacionamento interpessoal, adaptabilidade, aprendizado rápido, curiosidade, organização, proatividade",
-          "level": 65
-        }
+        { "name": "Comunicação Técnica", "level": 90 },
+        { "name": "Trabalho em Equipe", "level": 90 },
+        { "name": "Organização e Prazos", "level": 95 },
+        { "name": "Adaptabilidade", "level": 90 },
+        { "name": "Aprendizado Rápido", "level": 90 },
+        { "name": "Proatividade", "level": 85 }
       ]
     }
   ],
   "otherSkills": [
-    "Git",
-    "Comunicacao",
-    "Documentacao",
-    "Code review"
+    "Inteligência Emocional",
+    "Documentação Técnica",
+    "Autonomia",
+    "Resolução de Problemas"
   ],
   "languages": [
     {
