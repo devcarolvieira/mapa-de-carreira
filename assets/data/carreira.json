@@ -84,10 +84,10 @@
         { "name": "Kotlin", "level": 85 },
         { "name": "Android Studio", "level": 80 },
         { "name": "MongoDB", "level": 75 },
-        { "name": "Git & GitHub", "level": 80 },
+        { "name": "Git/GitHub", "level": 80 },
         { "name": "HTML", "level": 70 },
         { "name": "Figma", "level": 70 },
-        { "name": "Excel & Pacote Office", "level": 85 },
+        { "name": "Pacote Office", "level": 85 },
         { "name": "IntelliJ IDEA", "level": 85 },
         { "name": "Power BI", "level": 45 }
       ]
@@ -99,7 +99,7 @@
         { "name": "Trabalho em Equipe", "level": 90 },
         { "name": "Organização e Gestão de Tempo", "level": 95 },
         { "name": "Adaptabilidade", "level": 90 },
-        { "name": "Aprendizado Rápido", "level": 90 },
+        { "name": "Aprendizado Contínuo", "level": 90 },
         { "name": "Proatividade", "level": 85 },
         { "name": "Inteligência Emocional", "level": 70 },
          { "name": "Resolução de Problemas", "level": 80 }
