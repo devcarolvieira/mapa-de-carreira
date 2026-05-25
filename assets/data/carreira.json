@@ -81,13 +81,13 @@
       "title": "Hard Skills",
       "skills": [
         { "name": "Kotlin", "level": 85 },
-        { "name": "Android Studio", "level": 80 },
-        { "name": "MongoDB", "level": 75 },
-        { "name": "Git/GitHub", "level": 80 },
-        { "name": "HTML", "level": 70 },
+        { "name": "Android Studio", "level": 70 },
+        { "name": "MongoDB", "level": 60 },
+        { "name": "Git/GitHub", "level": 70 },
+        { "name": "HTML", "level": 50 },
         { "name": "Figma", "level": 70 },
         { "name": "Pacote Office", "level": 85 },
-        { "name": "IntelliJ IDEA", "level": 85 },
+        { "name": "IntelliJ IDEA", "level": 80 },
         { "name": "Power BI", "level": 45 }
       ]
     },
