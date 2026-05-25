@@ -95,11 +95,11 @@
     {
       "title": "Soft Skills",
       "skills": [
-        { "name": "Comunicação Técnica", "level": 90 },
-        { "name": "Trabalho em Equipe", "level": 90 },
-        { "name": "Organização e Gestão de Tempo", "level": 95 },
-        { "name": "Adaptabilidade", "level": 90 },
-        { "name": "Aprendizado Contínuo", "level": 90 },
+        { "name": "Comunicação Técnica", "level": 80 },
+        { "name": "Trabalho em Equipe", "level": 85 },
+        { "name": "Organização e Gestão de Tempo", "level": 80 },
+        { "name": "Adaptabilidade", "level": 85 },
+        { "name": "Aprendizado Contínuo", "level": 85 },
         { "name": "Proatividade", "level": 85 },
         { "name": "Inteligência Emocional", "level": 70 },
          { "name": "Resolução de Problemas", "level": 80 }
