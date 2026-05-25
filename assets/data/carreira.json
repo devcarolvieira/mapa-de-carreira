@@ -97,20 +97,19 @@
       "skills": [
         { "name": "Comunicação Técnica", "level": 90 },
         { "name": "Trabalho em Equipe", "level": 90 },
-        { "name": "Organização e Prazos", "level": 95 },
+        { "name": "Organização e Gestão de Tempo", "level": 95 },
         { "name": "Adaptabilidade", "level": 90 },
         { "name": "Aprendizado Rápido", "level": 90 },
-        { "name": "Proatividade", "level": 85 }
+        { "name": "Proatividade", "level": 85 },
+        { "name": "Inteligência Emocional", "level": 70 },
+         { "name": "Resolução de Problemas", "level": 80 }
       ]
     }
   ],
   "otherSkills": [
-    "Inteligência Emocional",
     "Documentação Técnica",
-    "Autonomia",
-    "Resolução de Problemas",
-    "Gestão de Tempo",
-    "Pensamento Analítico"
+    "Pensamento Analítico",
+    "Metodologias Ágeis"
   ],
   "languages": [
     {
